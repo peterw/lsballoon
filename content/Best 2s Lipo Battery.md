@@ -1,6 +1,6 @@
 ---
 title: "Best 2s Lipo Battery"
-
+date: "08 August, 2020"
 ---
 
 [Zeee 2s Lipo Battery 7.4V](http://www.amazon.com/dp/B076Z778MJ/?tag=g8123-20)
