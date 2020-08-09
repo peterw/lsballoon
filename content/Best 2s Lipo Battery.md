@@ -1,6 +1,6 @@
 ---
 title: "Best 2s Lipo Battery"
-date: "08 August, 2020"
+dateformat: "08 August, 2020"
 baseurl: "https://example.org/"
 ---
 
